@@ -69,7 +69,6 @@ const ApiFeriadosChile = () => {
                         <option value='desc'>Fecha Descendente</option>
                     </select>
                 </div>
-
             </div>
             <div className="table-responsive-sm mt-4">
                 <table className="table table-hover">
